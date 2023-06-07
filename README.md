@@ -1,2 +1,2 @@
 # github-actions
-Play around github actions
+CICD with Githubactions & Elastic Beanstalk
